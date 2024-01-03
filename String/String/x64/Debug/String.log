@@ -1,0 +1,4 @@
+﻿  string.cpp
+C:\Users\sungj\source\repos\String\String\string.cpp(13,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sungj\source\repos\String\String\string.cpp(134,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  String.vcxproj -> C:\Users\sungj\source\repos\String\x64\Debug\String.exe
